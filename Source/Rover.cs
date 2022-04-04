@@ -21,7 +21,7 @@ namespace MarsRovers
         {
             _direction = direction;
         }
-        //
+        
         internal string GetDirection()
         {
             return _direction;
